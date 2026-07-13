@@ -55,3 +55,20 @@ The report answers the key business question:
 - Power BI Desktop
 - DAX
 - Power Query
+
+- ## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](2.Executive%20Overview.png)
+
+### Product Analysis
+![Product Analysis](3.Product%20analysis.png)
+
+### Customer Analysis
+![Customer Analysis](4.customer%20analysis.png)
+
+### Performance Over Time
+![Performance Over Time](5.Performance%20over%20time.png)
+
+### Performance Drivers
+![Performance Drivers](6.Performance%20drivers.png)
